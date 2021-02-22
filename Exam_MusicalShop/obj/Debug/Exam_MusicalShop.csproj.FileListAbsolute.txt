@@ -1,0 +1,62 @@
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\Exam_MusicalShop.exe.config
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\Exam_MusicalShop.exe
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\Exam_MusicalShop.pdb
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.dll
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.xml
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csprojAssemblyReference.cache
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\MainWindow.g.cs
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\App.g.cs
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop_MarkupCompile.cache
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop_MarkupCompile.lref
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\App.baml
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Dictionary1.baml
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\MainWindow.baml
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.g.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.firstMigration.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.secondMigration.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.thirdMigration.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Properties.Resources.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csproj.GenerateResource.cache
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csproj.CoreCompileInputs.cache
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csproj.CopyComplete
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.exe
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.pdb
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.fourthMigration.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\BuyWindow.g.cs
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\BuyWindow.baml
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.fifthMigration.resources
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\LoginWindow.g.cs
+C:\ШАГ\БД\Нова папка (2)\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\LoginWindow.baml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\Exam_MusicalShop.exe.config
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\Exam_MusicalShop.exe
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\Exam_MusicalShop.pdb
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.dll
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.xml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csprojAssemblyReference.cache
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\BuyWindow.g.cs
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\LoginWindow.g.cs
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\MainWindow.g.cs
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\App.g.cs
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop_MarkupCompile.cache
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop_MarkupCompile.lref
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\App.baml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\BuyWindow.baml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Dictionary1.baml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\LoginWindow.baml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\MainWindow.baml
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.g.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.firstMigration.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.secondMigration.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.thirdMigration.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.fourthMigration.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Migrations.fifthMigration.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.Properties.Resources.resources
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csproj.GenerateResource.cache
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csproj.CoreCompileInputs.cache
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.csproj.CopyComplete
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.exe
+E:\C# проекти\Exam_MusicalShop\Exam_MusicalShop\obj\Debug\Exam_MusicalShop.pdb

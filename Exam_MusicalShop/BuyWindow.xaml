@@ -1,0 +1,39 @@
+﻿<Window x:Class="Exam_MusicalShop.BuyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exam_MusicalShop"
+        mc:Ignorable="d"
+        Title="BuyWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <ListView x:Name="ListViewDisks"  DockPanel.Dock="Left" Width="350">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" Width="130" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Band" Width="130" DisplayMemberBinding="{Binding BandId}"/>
+                        <GridViewColumn Header="Money" Width="90" DisplayMemberBinding="{Binding Money}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <WrapPanel DockPanel.Dock="Left" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100">
+                <TextBox x:Name="BlockClientName" Width="90" HorizontalAlignment="Center"/>
+                <TextBox x:Name="BlockDisksCount" Width="90" HorizontalAlignment="Center"/>
+                <TextBox x:Name="BlockMusicName" Width="90" HorizontalAlignment="Center"/>
+                <Button x:Name="BtnBuyAdd" Content="Buy" Height="20" Width="90"/>
+                <Button x:Name="BtnBuyClear" Content="Clear" Height="20" Width="90"/>
+            </WrapPanel>
+            <ListView x:Name="ListViewClients"  DockPanel.Dock="Left" Width="350">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" Width="130" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Phone" Width="130" DisplayMemberBinding="{Binding Phone}"/>
+                        <GridViewColumn Header="BirthDate" Width="90" DisplayMemberBinding="{Binding BirthDate}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </DockPanel>
+
+    </Grid>
+</Window>
